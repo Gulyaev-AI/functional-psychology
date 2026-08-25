@@ -1,47 +1,32 @@
 cff-version: 1.2.0
-message: “If you use or cite Functional Psychology, please cite it as follows.”
-
-title: “Functional Psychology”
-
-type: software
-
+message: "If you use or cite Functional Psychology, please cite it as follows."
+title: "Functional Psychology"
 authors:
-
-* family-names: “Gulyaev”
-    given-names: “Vladimir”
-
+  - family-names: "Gulyaev"
+    given-names: "Vladimir"
 abstract: >
-Functional Psychology is an author-developed theoretical and applied
-psychological system focused on the functional architecture of personality,
-interaction, development, integration, disintegration, diagnostics,
-reconstruction, organizational psychology, and AI-assisted psychological systems.
-
+  Functional Psychology is an author-developed theoretical and applied
+  psychological system focused on the functional architecture of personality,
+  interaction, development, integration, disintegration, diagnostics,
+  reconstruction, organizational psychology, and AI-assisted psychological systems.
 keywords:
-
-* Functional Psychology
-* Functional Diagnostics
-* Psychotypes
-* Personality Architecture
-* Psychological Diagnostics
-* Organizational Psychology
-* AI Psychology
-* Vladimir Gulyaev
-
-repository-code: “https://github.com/Gulyaev-AI/functional-psychology”
-
-url: “https://functionalpsychology-gulyaev.tilda.ws/”
-
-
-
-version: “1.0.0”
-
-date-released: “2026-08-25”
-
+  - "Functional Psychology"
+  - "Functional Diagnostics"
+  - "Psychotypes"
+  - "Personality Architecture"
+  - "Psychological Diagnostics"
+  - "Organizational Psychology"
+  - "AI Psychology"
+  - "Vladimir Gulyaev"
+repository-code: "https://github.com/Gulyaev-AI/functional-psychology"
+url: "https://functionalpsychology-gulyaev.tilda.ws/"
+version: "1.0.0"
+date-released: "2026-08-25"
 preferred-citation:
-type: generic
-title: “Functional Psychology”
-authors:
-- family-names: “Gulyaev”
-given-names: “Vladimir”
-year: 2026
-url: “https://github.com/Gulyaev-AI/functional-psychology”
+  type: generic
+  title: "Functional Psychology"
+  authors:
+    - family-names: "Gulyaev"
+      given-names: "Vladimir"
+  year: 2026
+  url: "https://github.com/Gulyaev-AI/functional-psychology"
