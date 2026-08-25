@@ -1,114 +1,187 @@
-# functional-psychology
-Official public repository of Functional Psychology by Vladimir Gulyaev — framework, documentation, research program and AI ecosystem.
 Functional Psychology
 
 Official Public Repository
 
 Author: Vladimir Gulyaev
+Psychologist · Author of Functional Psychology · Developer of Functional Diagnostics · Creator of Gulyaev AI Core
 
-Functional Psychology is an original theoretical and applied psychological system focused on the functional architecture of personality, interaction, development, integration, disintegration, diagnostics and reconstruction.
+Functional Psychology is an author-developed theoretical and applied psychological system focused on the functional architecture of personality, interaction, development, integration, disintegration, diagnostics, reconstruction and organizational systems.
 
-This repository presents the public structure, concepts, research directions and AI ecosystem of the system without exposing the private diagnostic core, internal algorithms or proprietary knowledge infrastructure.
+This repository is the public documentation layer of the system.
 
-⸻
-
-Core Idea
-
-Functional Psychology studies personality not as a static collection of traits, but as a functional architecture.
-
-The system describes:
-
-* how a person organizes perception and behavior
-* how decisions are formed
-* how different psychotypes interact
-* how development occurs within an underlying functional architecture
-* how integration and disintegration emerge
-* how psychological systems behave in relationships, families and organizations
-
-A central principle is:
-
-Personality becomes fully understandable not only through the individual psychotype, but through the interaction between different functional architectures.
+It presents the architecture, terminology, research program and AI ecosystem without publishing the private diagnostic core, full canonical manuscripts or proprietary AI knowledge infrastructure.
 
 ⸻
 
-Functional Architecture
+Core Architecture
 
-The canonical model includes four natural functional psychotypes and one state of disintegration.
+1 → A / B
+Expansion · Search · Creation · Development
+0 → C / D
+Preservation · Mastery · Stabilization · Maintenance
+E → Disintegration State
 
-Vector 1 — Expansion
+E is not a fifth natural psychotype.
 
-A / B
+The canonical distinction is:
 
-Functions associated with:
+A / B / C / D = underlying functional architecture
+E = state of functional disintegration
 
-* expansion
-* creation
-* search
-* development
-* formation of new contours
+The model is non-hierarchical:
 
-Vector 0 — Stabilization
-
-C / D
-
-Functions associated with:
-
-* preservation
-* mastering
-* stabilization
-* implementation
-* filling and maintaining existing contours
-
-E — Disintegration State
-
-E is not an independent natural psychotype.
-
-It describes a condition of functional disruption, loss of integration or systemic psychological failure.
-
-The binary analogy 1 / 0 is functional rather than hierarchical.
-
-Neither vector is considered superior to the other.
+1 ≠ better than 0
+0 ≠ error
 
 ⸻
 
-Psychotypes
+Explore Functional Psychology
 
-Psychotype A
+Documentation
 
-Male functional form of the expansion vector.
+Public conceptual documentation of the system:
 
-Associated with creation of new contours, expansion, initiative and system formation.
+* architecture
+* psychotypes A–D
+* E and disintegration
+* Functional Diagnostics
+* interaction between psychotypes
+* organizational systems
+* scientific status
+* AI architecture
 
-Psychotype B
+Encyclopedia
 
-Female functional form of the expansion vector.
+Public structural map of the three-volume Encyclopedia of Functional Psychology and its role as the canonical human-readable corpus of the system.
 
-Associated with development, recognition of new possibilities and expansion through relational and adaptive structures.
+Research
 
-Psychotype C
+Research program for operationalization, validation, reliability, prediction, longitudinal studies, cross-cultural research and independent replication.
 
-Female functional form of the stabilization vector.
+AI
 
-Associated with preservation, mastery, implementation and stable reproduction of established systems.
-
-Psychotype D
-
-Male functional form of the stabilization vector.
-
-Associated with maintenance, practical stabilization and functioning within established contours.
-
-E
-
-A state of disintegration rather than a fifth natural psychotype.
+Public entry point to Gulyaev AI Core, semantic retrieval, API architecture, multilingual access and future public and professional assistants.
 
 ⸻
 
-Interaction Between Psychotypes
+Start Here
 
-Functional Psychology places special emphasis on what happens between psychotypes.
+For a structured introduction, follow this route:
 
-Communication includes not only verbal content, but also:
+1. Overview
 
+What Functional Psychology is and what problem it is designed to solve.
+
+↓
+
+2. Functional Architecture
+
+The canonical 1 → A/B, 0 → C/D, E → disintegration architecture.
+
+↓
+
+3. Psychotypes A–D
+
+The internal functional criteria of A, B, C and D.
+
+↓
+
+4. Disintegration State E
+
+Why E is a state rather than a fifth natural psychotype.
+
+↓
+
+5. Functional Diagnostics
+
+Public methodological principles of Functional Diagnostics.
+
+↓
+
+6. Interaction Between Psychotypes
+
+Why psychological meaning emerges not only inside the individual, but between different functional architectures.
+
+↓
+
+7. Organizational Systems
+
+The organizational cycle A → B → C → D, functional dominance and system-stage mismatch.
+
+↓
+
+8. Scientific Status
+
+The distinction between canon, theoretical models, working hypotheses and externally validated evidence.
+
+↓
+
+9. AI Ecosystem
+
+How the canonical system can be transformed into a multilingual AI architecture.
+
+⸻
+
+Fundamental Principles
+
+Psychotype ≠ Role ≠ Skill ≠ State
+Development ≠ Psychotype Replacement
+E ≠ Fifth Psychotype
+Behavior ≠ Underlying Architecture
+Interaction ≠ Simple Sum of Two Individuals
+
+Functional Psychology treats a person as a functional system and interpersonal relations as additional functional systems created between people.
+
+⸻
+
+Functional Psychotypes
+
+Psychotype	Vector	High-Level Functional Orientation
+A	1	Creation and expansion of new contours
+B	1	Recognition and development of emerging possibilities
+C	0	Mastery and stabilization of established structures
+D	0	Practical maintenance and continuity of established structures
+
+E belongs to a different dimension:
+
+State	Meaning
+E	Functional disintegration
+
+This table is intentionally simplified and is not a diagnostic test.
+
+⸻
+
+Functional Diagnostics
+
+Functional Diagnostics does not classify people by isolated visible traits.
+
+Its public logic is:
+
+Observe
+↓
+Generate competing A/B/C/D hypotheses
+↓
+Compare multiple contexts
+↓
+Separate type / role / skill / state
+↓
+Investigate contradictions
+↓
+Update confidence only when new evidence appears
+↓
+Assess integration / disintegration separately
+
+The proprietary question sequences, scoring logic, thresholds and AI inference procedures are not published here.
+
+⸻
+
+Interaction
+
+A central proposition of Functional Psychology is that the person cannot be understood fully in isolation.
+
+Interaction includes:
+
+* verbal content
 * intonation
 * tempo
 * pauses
@@ -116,225 +189,201 @@ Communication includes not only verbal content, but also:
 * posture
 * distance
 * emotional regulation
-* behavioral expectations
 * nonverbal synchronization
+* recurring feedback loops
 
-Therefore, interaction itself becomes a diagnostic and developmental field.
+Therefore:
 
-⸻
-
-Functional Diagnostics
-
-Functional Diagnostics is the applied diagnostic component of the system.
-
-It studies:
-
-* underlying functional psychotype
-* current psychological state
-* integration and disintegration
-* compensatory mechanisms
-* developmental potential
-* interpersonal dynamics
-* organizational behavior
-* functional conflicts
-
-The diagnostic model uses adaptive interviewing, competing hypotheses, contextual analysis and behavioral verification.
-
-A fundamental distinction of the system is:
-
-Psychotype ≠ Role ≠ Skill ≠ Psychological State
-
-Development does not mean changing the original psychotype.
+individual architecture
++
+other person's architecture
++
+context
+=
+interaction architecture
 
 ⸻
 
-Development
+Organizational Systems
 
-Development occurs within the underlying functional architecture.
+A public high-level organizational model is:
 
-It may involve:
+A → Creation / Expansion
+B → Development
+C → Stabilization / Mastery
+D → Maintenance
 
-* increasing integration
-* expanding behavioral repertoire
-* improving regulation
-* reducing dysfunctional compensation
-* developing mature forms of the original psychotype
-* restoring impaired functions
+The important distinction is:
 
-The system distinguishes development from adaptation, compensation and temporary state changes.
+D ≠ degradation
+
+Risk emerges when the dominant function no longer matches the developmental task of the system.
 
 ⸻
 
 Encyclopedia of Functional Psychology
 
-The canonical theoretical corpus is organized as a three-volume encyclopedia.
+The canonical theoretical corpus is organized into three volumes:
 
 Volume I
 
-Foundations, terminology and architecture of Functional Psychology.
+Foundations and architecture
 
 Volume II
 
-Detailed analysis of functional psychotypes and psychological states.
+Detailed psychotypes and states
 
 Volume III
 
-Integration, disintegration, compensation, reconstruction, diagnostics, interpersonal systems, organizations, research hypotheses and AI architecture.
+Integration, disintegration, compensation, reconstruction, diagnostics, interpersonal systems, organizations, scientific program and AI
 
-The complete canonical corpus remains separate from this public repository.
+The full canonical manuscripts are not published in this repository.
 
-⸻
-
-Organizational Psychology
-
-Functional Psychology is also applied to organizations.
-
-One of the system models describes an organizational functional cycle:
-
-A → B → C → D
-
-Different functional architectures may become especially effective at different stages of organizational development.
-
-Research areas include:
-
-* founders and system creators
-* leadership
-* management
-* stabilization
-* organizational maturity
-* loss of developmental criteria
-* functional conflicts
-* internal degradation
-* dominance patterns
-* team architecture
+→ Explore the Encyclopedia architecture
 
 ⸻
 
-Scientific Status
+Scientific Position
 
-Functional Psychology is an author-developed theoretical and applied system.
+Functional Psychology distinguishes among:
 
-The system distinguishes between:
+CANONICAL DEFINITION
+THEORETICAL MODEL
+DIAGNOSTIC OBSERVATION
+WORKING HYPOTHESIS
+EMPIRICALLY SUPPORTED FINDING
+INDEPENDENTLY REPLICATED FINDING
 
-* canonical internal definitions
-* theoretical models
-* diagnostic observations
-* consulting experience
-* working hypotheses
-* hypotheses requiring empirical validation
+A concept being canonical within Functional Psychology does not automatically mean that it is established external scientific consensus.
 
-The long-term scientific program includes:
+→ Read the Scientific Status
 
-* operationalization of concepts
-* empirical testing
-* comparison with established psychological models
-* longitudinal research
-* diagnostic reliability studies
-* computational formalization
+→ Explore the Research Program
 
 ⸻
 
 AI Ecosystem
 
-Functional Psychology is being integrated into an AI architecture.
+The intended architecture is:
 
-The intended pipeline is:
+Canonical Corpus
+↓
+Structured Knowledge
+↓
+Gulyaev AI Core
+↓
+Semantic Retrieval / RAG
+↓
+Reasoning Layer
+↓
+API
+↓
+Public / Professional Assistants
+↓
+Multilingual Users
 
-Canonical Knowledge → Knowledge Core → AI Reasoning Layer → API → Professional Assistants
+The core principle is:
 
-The AI ecosystem is designed to support:
+one authoritative canon
++
+many interfaces
++
+many languages
 
-* professional psychological assistance
-* multilingual access
-* structured diagnostics
-* semantic retrieval
-* knowledge-grounded reasoning
-* future research applications
+The psychological system remains independent from any single AI model or provider.
 
-The private technological implementation is maintained separately.
-
-⸻
-
-Multilingual Architecture
-
-The canonical source of truth may remain primarily in Russian.
-
-The AI architecture is designed so that a user can:
-
-1. communicate in their own language
-2. have the language detected automatically
-3. semantically match the request with the canonical knowledge base
-4. perform reasoning according to Functional Psychology
-5. receive the result in the user’s language
-
-This makes international use possible without creating independent and potentially divergent versions of the theory.
+→ Explore the AI direction
 
 ⸻
 
-Repository Scope
+Public vs. Private Architecture
 
-Public
+Public Repository
 
-This repository may contain:
+This repository contains:
 
 * public definitions
-* theoretical overviews
-* terminology
-* research directions
-* scientific status
-* public documentation
-* diagrams
-* presentations
-* publication references
+* conceptual architecture
+* documentation
+* research program
+* scientific-status framework
+* encyclopedia structure
 * high-level AI architecture
 
-Private / Proprietary
+Private Core
 
-This repository does not expose:
+The private ecosystem may contain:
 
-* complete canonical knowledge corpus
-* full encyclopedia manuscripts
-* proprietary diagnostic algorithms
-* internal scoring logic
-* private prompts
-* system instructions
-* RAG knowledge packs
-* embeddings
-* internal inference rules
-* API credentials
-* private endpoints
-* implementation details of Gulyaev AI Core
+* complete canonical manuscripts
+* structured Knowledge Pack
+* proprietary diagnostic logic
+* scoring and verification procedures
+* internal prompts
+* AI inference rules
+* retrieval configuration
+* protected APIs
+* deployment secrets
+* private datasets
 
-⸻
-
-Planned Public Documentation
-
-docs/
-├── 01-overview.md
-├── 02-functional-architecture.md
-├── 03-psychotypes-a-d.md
-├── 04-disintegration-e.md
-├── 05-functional-diagnostics.md
-├── 06-interaction.md
-├── 07-organizations.md
-├── 08-scientific-status.md
-└── 09-ai-ecosystem.md
+Public documentation does not grant access to the private core.
 
 ⸻
 
-Author
+Repository Map
 
-Vladimir Gulyaev
-
-Psychologist
-Author of Functional Psychology
-Developer of Functional Diagnostics
-Author of the Encyclopedia of Functional Psychology
-Creator of Gulyaev AI Core
+functional-psychology/
+│
+├── docs/
+│   ├── 01-overview.md
+│   ├── 02-functional-architecture.md
+│   ├── 03-psychotypes-a-d.md
+│   ├── 04-disintegration-e.md
+│   ├── 05-functional-diagnostics.md
+│   ├── 06-interaction.md
+│   ├── 07-organizations.md
+│   ├── 08-scientific-status.md
+│   └── 09-ai-ecosystem.md
+│
+├── encyclopedia/
+│   └── README.md
+│
+├── research/
+│   └── README.md
+│
+├── ai/
+│   └── README.md
+│
+├── CITATION.cff
+├── COPYRIGHT.md
+└── README.md
 
 ⸻
 
-Links
+Citation
+
+Citation information is available in:
+
+CITATION.cff
+
+Recommended general attribution:
+
+Vladimir Gulyaev — Functional Psychology
+
+⸻
+
+Copyright and Intellectual Property
+
+Functional Psychology, its architecture, terminology, diagnostic concepts, theoretical models, encyclopedia structure and related materials are the intellectual work of Vladimir Gulyaev.
+
+Public availability of this repository does not grant unrestricted rights to reproduce, commercialize or incorporate proprietary elements of the system into third-party products.
+
+See:
+
+COPYRIGHT.md
+
+⸻
+
+Official Links
 
 Functional Psychology
 https://functionalpsychology-gulyaev.tilda.ws/
@@ -350,10 +399,20 @@ https://dzen.ru/id/5cdc1542d8314500b34fb402
 
 ⸻
 
-Copyright
+Author
 
-Functional Psychology, its terminology, structural models, diagnostic concepts and related materials are the intellectual work of Vladimir Gulyaev.
+Vladimir Gulyaev
 
-Unless explicitly stated otherwise, publication of materials in this repository does not grant permission to reproduce, modify, commercialize or incorporate the system into third-party products.
+Psychologist
+Author of Functional Psychology
+Author of the Encyclopedia of Functional Psychology
+Developer of Functional Diagnostics
+Creator of Gulyaev AI Core
 
-© Vladimir Gulyaev. All rights reserved.
+⸻
+
+Functional Psychology studies not only what a person is like, but how the psychological system is organized — and what emerges between different functional architectures.
+
+⸻
+
+© Vladimir Gulyaev. Functional Psychology. All rights reserved.
