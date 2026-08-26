@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: "Gulyaev"
     given-names: "Vladimir Vladimirovich"
+    orcid: "https://orcid.org/0009-0002-2258-9277"
 version: "1.0.1"
 keywords:
   - "Functional Psychology"
@@ -20,6 +21,7 @@ preferred-citation:
   authors:
     - family-names: "Gulyaev"
       given-names: "Vladimir Vladimirovich"
+      orcid: "https://orcid.org/0009-0002-2258-9277"
   year: 2026
   month: 8
   date-published: "2026-08-26"
