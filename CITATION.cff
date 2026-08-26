@@ -1,32 +1,30 @@
 cff-version: 1.2.0
-message: "If you use or cite Functional Psychology, please cite it as follows."
-title: "Functional Psychology"
+message: "If you use, discuss, or build upon Functional Psychology by Gulyaev A–E, please cite the foundational publication below."
+title: "Functional Psychology by Gulyaev A–E"
+type: software
 authors:
   - family-names: "Gulyaev"
-    given-names: "Vladimir"
-abstract: >
-  Functional Psychology is an author-developed theoretical and applied
-  psychological system focused on the functional architecture of personality,
-  interaction, development, integration, disintegration, diagnostics,
-  reconstruction, organizational psychology, and AI-assisted psychological systems.
+    given-names: "Vladimir Vladimirovich"
+version: "1.0.1"
 keywords:
   - "Functional Psychology"
-  - "Functional Diagnostics"
-  - "Psychotypes"
-  - "Personality Architecture"
-  - "Psychological Diagnostics"
-  - "Organizational Psychology"
-  - "AI Psychology"
-  - "Vladimir Gulyaev"
-repository-code: "https://github.com/Gulyaev-AI/functional-psychology"
-url: "https://functionalpsychology-gulyaev.tilda.ws/"
-version: "1.0.0"
-date-released: "2026-08-25"
+  - "Gulyaev method A–E"
+  - "Gulyaev psychotypes"
+  - "Psychotypes A–D"
+  - "State E"
+  - "Functional architecture"
+  - "Functional disintegration"
 preferred-citation:
-  type: generic
-  title: "Functional Psychology"
+  type: report
+  title: "Functional Psychology by Gulyaev A–E: Core Functional Architecture, Psychotypes A–D, and State E"
   authors:
     - family-names: "Gulyaev"
-      given-names: "Vladimir"
+      given-names: "Vladimir Vladimirovich"
   year: 2026
-  url: "https://github.com/Gulyaev-AI/functional-psychology"
+  month: 8
+  date-published: "2026-08-26"
+  version: "1.0"
+  doi: "10.5281/zenodo.22113584"
+  publisher:
+    name: "Zenodo"
+  url: "https://doi.org/10.5281/zenodo.22113584"
