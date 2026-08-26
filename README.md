@@ -3,8 +3,10 @@
 **A functional and systems-oriented framework of psychological architecture, psychotypes A–D, interaction, adaptation, and State E.**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22113584.svg)](https://doi.org/10.5281/zenodo.22113584)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--2258--9277-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-2258-9277)
 
 Author and creator: **Vladimir Vladimirovich Gulyaev**  
+ORCID: [0009-0002-2258-9277](https://orcid.org/0009-0002-2258-9277)  
 Public conceptual release: **Version 1.0.1**  
 Foundational publication: **Version 1.0, 26 August 2026**
 
@@ -355,7 +357,8 @@ Recommended citation:
 > Gulyaev, V. V. (2026). *Functional Psychology by Gulyaev A–E: Core Functional Architecture, Psychotypes A–D, and State E* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.22113584
 
 Version-specific DOI: [10.5281/zenodo.22113584](https://doi.org/10.5281/zenodo.22113584)  
-Concept DOI for all versions: [10.5281/zenodo.22113583](https://doi.org/10.5281/zenodo.22113583)
+Concept DOI for all versions: [10.5281/zenodo.22113583](https://doi.org/10.5281/zenodo.22113583)  
+Author ORCID: [0009-0002-2258-9277](https://orcid.org/0009-0002-2258-9277)
 
 ---
 
@@ -373,6 +376,7 @@ See [`INTELLECTUAL_PROPERTY.md`](INTELLECTUAL_PROPERTY.md) for the repository ri
 
 - [Functional Psychology](https://functionalpsychology-gulyaev.tilda.ws/)
 - [Vladimir Gulyaev](https://vladimirgulyaev.tilda.ws/)
+- [ORCID — Vladimir Vladimirovich Gulyaev](https://orcid.org/0009-0002-2258-9277)
 - [Telegram](https://t.me/psychoterapy4you)
 - [Zen](https://dzen.ru/id/5cdc1542d8314500b34fb402)
 - [Zenodo publication](https://doi.org/10.5281/zenodo.22113584)
@@ -382,6 +386,8 @@ See [`INTELLECTUAL_PROPERTY.md`](INTELLECTUAL_PROPERTY.md) for the repository ri
 ## Author
 
 **Vladimir Vladimirovich Gulyaev**
+
+ORCID: [0009-0002-2258-9277](https://orcid.org/0009-0002-2258-9277)  
 
 Psychologist  
 Author and creator of Functional Psychology by Gulyaev A–E  
